@@ -6,7 +6,7 @@ public class jogo {
 		
 		Random n = new Random();
 		
-		String[] sufixo = {"de Copa","de Coração","de Ouro","de Paus"};
+		String[] sufixo = {"de Copa","de Espada","de Ouro","de Paus"};
 		String naipe = null;
 		int carta = 0;
 		String cartas = null;
